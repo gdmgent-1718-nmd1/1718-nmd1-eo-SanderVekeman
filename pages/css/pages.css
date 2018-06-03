@@ -9,10 +9,18 @@ body {
     color: #333;
     line-height: 1.5em;
     padding: 25px;
+background-color: #E9E9E9
 }
 
 img {
-    max-width: 100%; /* Afbeeldingen responsive maken */
+    max-width: 50%;
+    margin: 10%
+    
+    
+    /* Afbeeldingen responsive maken */
 }
-
+div {
+    background-color: blue;
+    color: green;
+}
 /* Voeg jouw css hieraan toe */
